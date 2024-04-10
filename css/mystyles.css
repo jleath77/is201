@@ -1,0 +1,21 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+.site-heading-lower{
+    font-family: 'Courier New', Courier, monospace;
+    color: whitesmoke;
+}
+.mb-3{
+    font-family: 'Courier New', Courier, monospace;
+    color: burlywood !important;
+
+}
+.notyellow{
+    color: black !important;
+}
+.intro-text{
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, .5);
+}
+.section-heading-lower{
+    
+}
